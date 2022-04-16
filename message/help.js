@@ -26,7 +26,7 @@ exports.allmenu = (ucapanWaktu, mundur, sender, prefix, jam, tanggal, runtime, p
 Hitung Mundur Hari Raya Idul Fitri
 ${mundur.data.result}
 
-👑 Creator : ${setting.ownerName}
+👑 Owner : ${setting.ownerName}
 🤖 Bot Name : ${setting.botName}
 📍 Prefix : ⟨ ${prefix} ⟩
 🌎 Language : Javascript
@@ -167,11 +167,12 @@ ${runtime(process.uptime())}
 *「 Thanks To 」*
 • X-None Team
 • Fadly ID
-• Rtwone
-• Aqulzz
-• Ramlan ID
-• Penyedia Api & Module
-• Adiwajshing/Baileys
+• VANZZ OFC
+
+*「 RULES 」*
+•JANGAN SPAM / BLOK
+• JAN TELFON / BLOK
+•JAN UDANG KE GRUP TANPA IJIN OWNER / BLOK
 `
 }
 
@@ -191,23 +192,23 @@ wa.me/${ownerNumber.split("@")[0]} (Owner)`
 }
 
 exports.rules = (prefix) => {
-    return`Syarat & Ketentuan *X-None Bot*
+    return`Syarat & Ketentuan *HELLO BOT*
 
-• X-None Bot *hanya menyimpan nomor anda* di dalam database sebagai nomor user
-• X-None Bot *tidak pernah meminta informasi pribadi* anda seperti alamat rumah, asal daerah, dan lain-lain
-• X-None Bot tidak menerima *Telpon / Video Call*
+• HELLO BOT*hanya menyimpan nomor anda* di dalam database sebagai nomor user
+• HELLO BOT*tidak pernah meminta informasi pribadi* anda seperti alamat rumah, asal daerah, dan lain-lain
+• HELLO BOTtidak menerima *Telpon / Video Call*
 • Dilarang *copy tampilan* bot
 • Dilarang melakukan *spam* terhadap bot
-• X-None Bot tidak menyimpan *data pribadi* anda
-• X-None Bot *tidak bertanggungjawab atas fitur apapun yang anda gunakan*
-• X-None Bot *tidak* menyimpan foto, video, atau media apapun yang anda kirimkan
+• HELLO BOTtidak menyimpan *data pribadi* anda
+• HELLO BOT*tidak bertanggungjawab atas fitur apapun yang anda gunakan*
+• HELLO BOT*tidak* menyimpan foto, video, atau media apapun yang anda kirimkan
 • Apabila menemukan bug, error, atau request fitur harap hubungi developer bot
-• X-None Bot berhak *memblokir* atau *ban* terhadap user dengan alasan maupun tanpa alasan
-• Join Untuk Info Seputar Bot Fadly ID
+• HELLO BOTberhak *memblokir* atau *ban* terhadap user dengan alasan maupun tanpa alasan
+• Join Untuk Info Seputar Bot VANZZ OFC
 Group 1 :
 https://chat.whatsapp.com/GtxWnk2n2ryCiwYFWScOk5
 Group 2 :
 https://chat.whatsapp.com/Htg7SMiuz9A2zbvrltNwcg
 
-_Regards : Fadly ID_`
+_Regards : VANZZ OFC_`
 }
